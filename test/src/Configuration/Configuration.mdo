@@ -28,5 +28,6 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.ВидыНоменклатуры</catalogs>
   <catalogs>Catalog.ТипыЦен</catalogs>
+  <reports>Report.Продажи</reports>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
 </mdclass:Configuration>
