@@ -28,6 +28,7 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.ВидыНоменклатуры</catalogs>
   <catalogs>Catalog.ТипыЦен</catalogs>
+  <documentJournals>DocumentJournal.Общий</documentJournals>
   <enums>Enum.ДаНет</enums>
   <reports>Report.Продажи</reports>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DocumentJournal xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="94bb5424-3276-4279-9679-000a551dffb0">
+  <producedTypes>
+    <selectionType typeId="cef75488-49a5-44d6-a52c-a39271cc6ee4" valueTypeId="cf1df7e5-6cac-45a5-8fc9-67d3186dbcce"/>
+    <listType typeId="74246c2e-212c-499f-8058-7d30f97e2708" valueTypeId="ad020d46-fa1b-4884-a893-04e2fe7f9068"/>
+    <managerType typeId="eed52201-d93b-406d-bc69-a9c4384a0938" valueTypeId="247d7953-d1b7-40ac-a912-2f257d39cb6d"/>
+  </producedTypes>
+  <name>Общий</name>
+  <synonym>
+    <key>ru</key>
+    <value>Общий</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DocumentJournal>
