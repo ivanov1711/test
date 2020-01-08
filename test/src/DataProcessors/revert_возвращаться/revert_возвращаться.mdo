@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4c0c8910-4161-4584-a67e-070d8d0a5389">
+  <producedTypes>
+    <objectType typeId="11489b40-f6a8-4b3e-9709-3eb03e3313b8" valueTypeId="da2a5a1b-9d65-43a7-a10e-e420303fe05f"/>
+    <managerType typeId="5f31b078-97a9-4f2f-aa46-022f6abfe717" valueTypeId="9070569f-c361-4c97-ba9b-b507f58236cb"/>
+  </producedTypes>
+  <name>revert_возвращаться</name>
+  <synonym>
+    <key>ru</key>
+    <value>Revert возвращаться</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>
