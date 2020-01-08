@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="922357bb-c460-4c2b-8d2b-67ec6ded3d2b">
+  <producedTypes>
+    <refType typeId="e8d2ddfe-2d49-4655-8df1-7b9156a9c3aa" valueTypeId="e59b0c16-4c67-436a-a68c-c0582e74af78"/>
+    <listType typeId="b476bad3-08b7-499f-bed0-54b1f49e2202" valueTypeId="2ad1e013-5fad-4bde-95fc-f5cf4aca9082"/>
+    <managerType typeId="2c045a32-f784-4529-91b5-c8dfaa921b1b" valueTypeId="94a55e65-50ab-4f92-9f27-25c0cd45087f"/>
+  </producedTypes>
+  <name>ДаНет</name>
+  <synonym>
+    <key>ru</key>
+    <value>Да нет</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>
