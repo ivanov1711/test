@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a777a557-385b-48a5-b61d-2a462b39cecf">
+  <producedTypes>
+    <selectionType typeId="d6305e3b-3be4-4f1b-8f60-7277912e460b" valueTypeId="80ca7870-e7a4-49d5-86fb-a90ca72785de"/>
+    <listType typeId="58da1aba-e248-4302-b826-de871ceee3a3" valueTypeId="f23b5b00-50ea-499c-8eb2-5c1c0b8893c2"/>
+    <managerType typeId="6cfe0e70-f734-4ab3-b07a-c3cf92fcf256" valueTypeId="495e470d-96d3-4c7d-a092-d13d540023fb"/>
+    <recordSetType typeId="bd2c9f90-f78f-483c-87dd-16bcbb636b2f" valueTypeId="c6995000-fe7f-40a3-9000-ca69682e5744"/>
+    <recordKeyType typeId="459dc138-994d-4c47-b222-d27397b33bae" valueTypeId="4a5bf63f-737f-4981-82a2-49e650027d78"/>
+    <recordType typeId="9f33dba6-2648-4bb6-8d43-ed1f05d12b78" valueTypeId="4ffa5207-14bb-4c39-a6e9-5966a87475fb"/>
+    <recordManagerType typeId="fe8551eb-3604-484e-b7de-3d6d3b9aaacb" valueTypeId="69d37ed0-b376-4c6e-9469-872eebfa17f6"/>
+  </producedTypes>
+  <name>ЦеныНоменклатуры</name>
+  <synonym>
+    <key>ru</key>
+    <value>Цены номенклатуры</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="5af750ea-e457-4bff-900a-f0cf80565ace">
+    <name>Цена</name>
+    <synonym>
+      <key>ru</key>
+      <value>Цена</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>15</precision>
+        <scale>2</scale>
+      </numberQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </resources>
+  <dimensions uuid="2047fa80-a470-4dde-8cb1-289d48164dbb">
+    <name>Номенклатура</name>
+    <synonym>
+      <key>ru</key>
+      <value>Номенклатура</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Номенклатура</types>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+  <dimensions uuid="a40d9e7a-1ab2-4721-9b36-dffdb7bcbd90">
+    <name>ТипЦен</name>
+    <synonym>
+      <key>ru</key>
+      <value>Тип цен</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.ТипыЦен</types>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>
