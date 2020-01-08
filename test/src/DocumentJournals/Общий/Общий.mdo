@@ -11,4 +11,5 @@
     <value>Общий</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <registeredDocuments>Document.РеализацияТоваровУслуг</registeredDocuments>
 </mdclass:DocumentJournal>
