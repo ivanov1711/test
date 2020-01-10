@@ -28,6 +28,7 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.ВидыНоменклатуры</catalogs>
   <catalogs>Catalog.ТипыЦен</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
   <documents>Document.РеализацияТоваровУслуг</documents>
   <documentJournals>DocumentJournal.Общий</documentJournals>
   <enums>Enum.ДаНет</enums>
